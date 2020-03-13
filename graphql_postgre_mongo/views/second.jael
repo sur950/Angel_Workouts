@@ -1,0 +1,5 @@
+<extend src="layout.jael">
+    <block name="content">
+        <div class="title">Welcome to SECOND get method</div>
+    </block>
+</extend>
