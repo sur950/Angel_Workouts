@@ -7,7 +7,7 @@
 
 **A polished, production-ready backend framework in Dart.**
 
-*Note: This repo is an application boilerplate ,and not the underlying framework library.*
+*Note: This repo is an experiment uisng angel framework.*
 
 -----
 ## About
@@ -34,7 +34,7 @@ pub global activate angel_cli
 Bootstrap a project:
 
 ```bash
-angel init hello
+angel init <folder/project name>
 ```
 
 You can even have your server run and be *hot-reloaded* on file changes:
